@@ -63,11 +63,12 @@ li {
 
 .card {
   text-align: center;
-  border: 3px solid #1ee3cf;
+  border: 3px solid #228CDB;
   background: #f2f4f6;
   padding: 10px;
-  margin: 10px;
+  margin: 15px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  border-radius: 10px;
 }
 
 .bio {
@@ -78,7 +79,7 @@ li {
 
 
 #hand {
-  color: #1ee3cf;
+  color: #228CDB;
   font-size: 28px;
 }
 
@@ -90,13 +91,13 @@ li {
   color: white;
   width: 200px;
   height: 40px;
-  border: 2px solid #1ee3cf;
+  border: 2px solid #228CDB;
 
 }
 
 #soundcloud:hover {
   color: white;
-  background-color: #1ee3cf;
+  background-color: #0B7189;
 }
 
 
